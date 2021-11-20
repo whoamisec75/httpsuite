@@ -39,3 +39,41 @@ $ httpsuite -h
 ```
 
 ## Usage 
+<img src="https://github.com/whoamisec75/httpsuite/blob/main/static/Screenshot%20from%202021-11-20%2022-37-22.png" length="600px" width="600px"/>
+
+## Whois lookup
+```
+$ httpsuite http://example.com --whois
+```
+## Header information
+```
+$ httpsuite http://example.com --headers
+```
+## Crawling
+```
+$ httpsuite http://example.com --crawl
+```
+## Directory Search
+```
+$ httpsuite http://example.com --ds
+```
+## Admin Panel Finder
+```
+$ httpsuite http://example.com --ds
+```
+## Port Scanning
+```
+$ httpsuite http://example.com --pscan
+```
+## DNS Enumeration
+```
+$ httpsuite http://example.com --dnsrec
+```
+## Subdomain Scanning
+```
+$ httpsuite http://example.com --subscan
+```
+## Subdomain Scanning using crt.sh
+```
+$ httpsuite http://example.com --sub-crt
+```
