@@ -20,6 +20,13 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
     ],
+    install_requires=[
+        'colorama',
+        'bs4',
+        'requests',
+        'dnslib',
+        'ipwhois',
+    ],
     entry_points={
         'console_scripts': [
             'httpsuite = httpsuite.__main__:main'
