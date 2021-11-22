@@ -1,4 +1,3 @@
-from typing import Text
 from colorama import Fore, Style
 
 red = Fore.RED
