@@ -1,4 +1,4 @@
-<img src="https://github.com/whoamisec75/httpsuite/blob/main/static/IMG_20211120_214904.jpg"/>
+<p align="center"><img src="https://github.com/whoamisec75/httpsuite/blob/main/static/IMG_20211122_204717.jpg"/></p>
 <i><b><p align="center">A toolkit for web reconnaissance, it's fast and easy to use.</p></b></i>  
 
 ## File Structure
