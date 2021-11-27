@@ -11,7 +11,7 @@ setup(
     author_email = "indiananonymous75@gmail.com",
     license = "MIT",
     keywords = ["httpsuite", "Bug Bounty", "pentesting", "security", "hacking"],
-    url = "https://github.com/DevanshRaghav75/httpsuite",
+    url = "https://github.com/whoamisec75/httpsuite",
     packages=find_packages(),
     classifiers=[
         "Intended Audience :: Developers",
