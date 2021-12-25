@@ -58,7 +58,7 @@ $ httpsuite http://example.com --ds
 ```
 ## Admin Panel Finder
 ```
-$ httpsuite http://example.com --ds
+$ httpsuite http://example.com --apf
 ```
 ## Port Scanning
 ```
